@@ -7,7 +7,7 @@ cache:
 script:
   - npm run build
   - npm run export
-  - echo portfolios.uxwizards.org >> CNAME
+  - echo portfolios.uxwizards.org >> out/CNAME
   - touch out/.nojekyll
 deploy:
   provider: pages
