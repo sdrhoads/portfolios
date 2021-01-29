@@ -11,6 +11,12 @@ const WIZARDS = [
     designerType: "interaction",
     website: "https://starwars.fandom.com/wiki/Luke_Skywalker"
   },
+  {
+    name: "Sidney Rhoads",
+    imageLink: "https://storage.googleapis.com/uxfolio/5f5b83a7d6cd0a0004552fb3/birthday_selfie_copy_Xdm.jpg",
+    designerType: "interaction",
+    website: "https://www.sidneyrhoads.com/"
+  },
 ]
 
 const WIZARDTYPES = {
